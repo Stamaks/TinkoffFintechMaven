@@ -1,2 +1,4 @@
 /.idea/*
 Tinkoff.iml
+/target/*
+file.txt
